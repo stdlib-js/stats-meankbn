@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-dmeankbn": "github:stdlib-js/stats-base-ndarray-dmeankbn#main",
     "@stdlib/stats-base-ndarray-meankbn": "github:stdlib-js/stats-base-ndarray-meankbn#main",
     "@stdlib/stats-base-ndarray-smeankbn": "github:stdlib-js/stats-base-ndarray-smeankbn#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-zeros": "^0.2.2",
